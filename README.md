@@ -15,13 +15,13 @@ Este proyecto está desarrollado utilizando Android Studio. Si no tienes Android
 
 ## 2. Abrir el proyecto en Android Studio
 
-### - Abre Android Studio
-### - Haz clic en "Abrir un archivo existente"
-### - Selecciona el proyecto
-### - Esperar a que se indexe el proyecto
+- Abre Android Studio
+- Haz clic en "Abrir un archivo existente"
+- Selecciona el proyecto
+- Esperar a que se indexe el proyecto
 
 ## 3. Compilar el proyecto
 
-### - Darle clic a la imagen de "Play" en la parte superior (en dado caso que no se haya configurado un emuladora Android Studio abrira la venta para configurarlo)
-### - Esperar a que compile el proyecto
+- Darle clic a la imagen de "Play" en la parte superior (en dado caso que no se haya configurado un emuladora Android Studio abrira la venta para configurarlo)
+- Esperar a que compile el proyecto
 
