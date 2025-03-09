@@ -25,7 +25,7 @@ interface ApiService {
     @POST("saveMobileLocationAppClient")
     suspend fun createAccount(@Body request: RequestCreateUser): ResponseCreateUser
 
-    @GET("getDrugs")
+    @GET("https://dev.plmconnection.com/plmservices/RestPLMPharmaSearchEngine/RestPharmaSearchEngine.svc/getDrugs")
     suspend fun getProducts(@Query("code") codeUser: String, @Query("countryId") countryId: String, @Query("editionId") editionId: String, @Query("drug") drug: String): ResponseProducts
 
     @GET("https://run.mocky.io/v3/7612b18c-df96-4d01-8f08-a09b71c7c781")
